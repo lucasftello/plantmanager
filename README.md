@@ -1,9 +1,3 @@
-<h1 align="center">
-    PlantManager
-</h1>
-
----
-
 ## 🧪 Technologies
 
 This project was developed using the following technologies:
